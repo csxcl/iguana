@@ -26,7 +26,7 @@ h1{
 }
 
 
-#parte3 {
+#desc-section {
     height: 348px;
     width: 1280px;
 }
@@ -36,8 +36,8 @@ h1{
 }
 
 .cajas {
-    height: 475px;
-    width: 197px;
+    width: 475px;
+    height:  197px;
     float:left;
     margin-top: 76px;
 }
@@ -57,14 +57,23 @@ h1{
     font-weight: 300;
 }
 
-#parte4 {
+#icons-section {
     height: 348px;
+    width: 1280px;
     background-color: #1e1a13; 
     text-align: center;
+
 }
+
+#pre {
+    font-size: 25px;
+    font-weight: 300;
+}
+
 
 h2 {
     font-weight: 500;
+    font-size: 40px;
 }
 
 #parte5 {
@@ -72,9 +81,6 @@ h2 {
     text-align: center;
     display: table;
 }
-
-
-
 
 .footer {
     height: 102px;
