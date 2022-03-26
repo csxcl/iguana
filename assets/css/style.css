@@ -1,8 +1,10 @@
-
-
-body {
+html{
     height: 1937px;
     width: 1280px;
+    
+}
+
+body {
     background-color: #000000; 
     color: #ffffff;
     margin-left: 0px;
@@ -10,7 +12,7 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
-#titulo {
+#title {
     height: 73px;
     text-align: center;   
 }
@@ -20,7 +22,7 @@ h1{
     margin-top: 0px;
     font-weight: 500;
 }
-#imagen1 {
+#img1 {
     height: 727px;
     width: 1280px;
 }
@@ -31,11 +33,11 @@ h1{
     width: 1280px;
 }
 
-#parrafo {
+#parraf {
     margin-left: 150px;
 }
 
-.cajas {
+.box {
     width: 475px;
     height:  197px;
     float:left;
@@ -51,7 +53,7 @@ h1{
     margin-right: 150px;
 }
 
-#parrafo {
+#parraf {
     width: 475px;
     height: 197px;
     font-weight: 300;
@@ -77,7 +79,7 @@ h2 {
     margin-top: 0px;
 }
 
-#parte5 {
+#part5 {
     height: 348px;
     text-align: center;
     display: table;
@@ -91,7 +93,7 @@ h2 {
     display: table;
 }
 
-.hijo {
+.son {
     display: table-cell;
     vertical-align: middle;
     font-weight: 300;
